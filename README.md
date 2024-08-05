@@ -1,7 +1,7 @@
 
 | 软件                                                         |      版本      |            备注             |
 | :----------------------------------------------------------- | :------------: | :-------------------------: |
-| [010 Editor](https://github.com/testpatch/APP-Windows/releases/tag/010Editor) |      14.0      |       十六进制编辑器        |
+| [010 Editor](https://github.com/testpatch/APP-Windows/releases/tag/010Editor) |      15.0      |       十六进制编辑器        |
 | [Acrobat](https://github.com/testpatch/APP-Windows/releases/download/Acrobat/Acrobat_2023.006.20380_x86_Ked.7z) | 2023.006.20380 |        PDF编辑与转换        |
 | [Beyond Compare](https://github.com/testpatch/APP-Windows/releases/tag/BeyondCompare) |  4.4.7.28397   |          数据比较           |
 | [FileLocator Pro](https://github.com/testpatch/APP-Windows/releases/tag/FileLocatorPro) |      3294      |          文件搜索           |
